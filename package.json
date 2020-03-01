@@ -7,10 +7,10 @@
   "license": "MIT",
   "workspaces": ["packages/*"],
   "scripts": {
+    "dev": "lerna run dev",
     "build": "lerna run build"
   },
   "devDependencies": {
-    "lerna": "^3.20.2",
-    "now-cli": "^0.0.0"
+    "lerna": "^3.20.2"
   }
 }
