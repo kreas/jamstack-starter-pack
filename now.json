@@ -1,0 +1,25 @@
+{
+  "name": "jamstack-starter-pack",
+  "version": 2,
+  "public": true,
+  "builds": [
+    {
+      "src": "packages/site/package.json",
+      "use": "now-sapper"
+    },
+    {
+      "src": "packages/backend/*.js",
+      "use": "@now/node"
+    }
+  ],
+  "routes": [
+    {
+      "src": "/api/(.*)",
+      "dest": "packages/backend/$1"
+    },
+    {
+      "src": "/(.*)",
+      "dest": "packages/site/$1"
+    }
+  ]
+}
