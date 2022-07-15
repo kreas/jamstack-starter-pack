@@ -4522,11 +4522,6 @@ normalize.css@^8.0.1:
   resolved "https://registry.yarnpkg.com/normalize.css/-/normalize.css-8.0.1.tgz#9b98a208738b9cc2634caacbc42d131c97487bf3"
   integrity sha512-qizSNPO93t1YUuUhP22btGOo3chcvDFqFaj2TRybP0DMxkHOCTYwp3n34fel4a31ORXy4m1Xq0Gyqpb5m33qIg==
 
-now-cli@^0.0.0:
-  version "0.0.0"
-  resolved "https://registry.yarnpkg.com/now-cli/-/now-cli-0.0.0.tgz#eb0e63426999815b344313ba3ea99a4f7cf8dc0b"
-  integrity sha1-6w5jQmmZgVs0QxO6PqmaT3z43As=
-
 npm-bundled@^1.0.1:
   version "1.1.1"
   resolved "https://registry.yarnpkg.com/npm-bundled/-/npm-bundled-1.1.1.tgz#1edd570865a94cdb1bc8220775e29466c9fb234b"
@@ -6024,9 +6019,9 @@ svelte-preprocess@^3.4.0:
     strip-indent "^3.0.0"
 
 svelte@^3.0.0:
-  version "3.19.1"
-  resolved "https://registry.yarnpkg.com/svelte/-/svelte-3.19.1.tgz#2455e443f8ca67b98f3b7eb58285eaeb8af0c4b9"
-  integrity sha512-MGBh6LiWwwOfzlH9epQ8mP5DNWsuc6fWsZpLy47beqNG8wSkrQ/ez7TxaV+8VZ5KOwJJnfesj5gqgGjM2NcWVw==
+  version "3.49.0"
+  resolved "https://registry.yarnpkg.com/svelte/-/svelte-3.49.0.tgz#5baee3c672306de1070c3b7888fc2204e36a4029"
+  integrity sha512-+lmjic1pApJWDfPCpUUTc1m8azDqYCG1JN9YEngrx/hUyIcFJo6VZhj0A1Ai0wqoHcEIuQy+e9tk+4uDgdtsFA==
 
 tailwindcss@^1.2.0:
   version "1.2.0"
